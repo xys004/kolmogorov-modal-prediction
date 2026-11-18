@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this version when using the reproduction data or code."
+title: "Reproduction data and code for certified limits on modal prediction in two-dimensional Kolmogorov flow"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-18
+authors:
+  - family-names: "Bolívar"
+    given-names: "Nelson"
+  - family-names: "Abellán"
+    given-names: "Gabriel"
+  - family-names: "Vasilev"
+    given-names: "Ivaylo"
+url: "https://github.com/xys004/kolmogorov-modal-prediction/releases/tag/v1.0.0"
